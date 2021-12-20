@@ -22,7 +22,7 @@ https://intuit.ru/verifydiplomas/101501432
 ## Профессиональные навыки
 Пользователь MsOffice
 Adobe Photoshop
-## Контакты
+## Контакты📱
 <p align='left'>
    <a href="https://vk.com/hikkim0ri/">
        <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>
