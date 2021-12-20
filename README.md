@@ -24,9 +24,9 @@ https://intuit.ru/verifydiplomas/101501432
 Adobe Photoshop
 ## Контакты
 <p align='center'>
-   <a href="https://vk.com/hikkim0ri">
-       <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white/>
-   </а>
+   <a href="https://www.linkedin.com/in/romankh3/">
+       <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>
+   </a>
 
 
 
