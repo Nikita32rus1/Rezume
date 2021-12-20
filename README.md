@@ -23,15 +23,9 @@ https://intuit.ru/verifydiplomas/101501432
 Пользователь MsOffice
 Adobe Photoshop
 ## Контакты
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/Nikita32rus1/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=Nikita32rus1&color=DE002D">
-   </a>
-</div>
-
 <p align='left'>
    <a href="https://vk.com/hikkim0ri">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+       <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white/>
    </ а >
 
 
