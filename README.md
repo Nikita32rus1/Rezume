@@ -17,7 +17,7 @@
 ## ⚽Увлечения🎨
 Настольный теннис, устройство компьютера, рисование.
 ## 🏆Личные достижения🏆
-Сертификат ИНТУИТ:img src https:user-images.githubusercontent.com/93982810/146959300-ff0a938b-d7cf-4035-bfe3-4387e756c893.jpg
+Сертификат ИНТУИТ:<img src https:user-images.githubusercontent.com/93982810/146959300-ff0a938b-d7cf-4035-bfe3-4387e756c893.jpg>
 ## 👩‍🏭Профессиональные навыки👩‍🏭
 Пользователь MsOffice
 Adobe Photoshop
@@ -31,4 +31,4 @@ Adobe Photoshop
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 
-
+�
