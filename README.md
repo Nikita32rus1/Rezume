@@ -17,7 +17,6 @@
 ## ⚽Увлечения🎨
 Настольный теннис, устройство компьютера, рисование.
 ## 🏆Личные достижения🏆
-Сертификат ИНТУИТ:
 ![Nekommerch-2-1501432-ORF (1)](https://user-images.githubusercontent.com/93982810/146961729-6c1bac4a-7862-4128-b083-96dd815fc9e3.jpg)
  
 ## 👩‍🏭Профессиональные навыки👩‍🏭
@@ -31,6 +30,6 @@ Adobe Photoshop
    <p align='left'>
    <a href="https://t.me/hikki_mori/">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
+   </ а >
 
 
