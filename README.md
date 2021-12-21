@@ -17,7 +17,10 @@
 ## ⚽Увлечения🎨
 Настольный теннис, устройство компьютера, рисование.
 ## 🏆Личные достижения🏆
-Сертификат ИНТУИТ:<img src "https:user-images.githubusercontent.com/93982810/146959300-ff0a938b-d7cf-4035-bfe3-4387e756c893.jpg/>
+Сертификат ИНТУИТ:
+<p align='left'>
+   <img src="https://https:user-images.githubusercontent.com/93982810/146959300-ff0a938b-d7cf-4035-bfe3-4387e756c893.jpg"
+     </a>   
 ## 👩‍🏭Профессиональные навыки👩‍🏭
 Пользователь MsOffice
 Adobe Photoshop
