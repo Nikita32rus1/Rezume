@@ -18,9 +18,8 @@
 Настольный теннис, устройство компьютера, рисование.
 ## 🏆Личные достижения🏆
 Сертификат ИНТУИТ:
-<p align='center'>
-   <img src="https:user-images.githubusercontent.com/93982810/146959300-ff0a938b-d7cf-4035-bfe3-4387e756c893.jpg?&style=for-the-badge&logo=vk&logoColor=white"
-     </a>   
+![Nekommerch-2-1501432-ORF (1)](https://user-images.githubusercontent.com/93982810/146961729-6c1bac4a-7862-4128-b083-96dd815fc9e3.jpg)
+ 
 ## 👩‍🏭Профессиональные навыки👩‍🏭
 Пользователь MsOffice
 Adobe Photoshop
