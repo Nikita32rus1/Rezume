@@ -21,7 +21,7 @@
 
 ![Nekommerch-2-1501432-ORF (1)](https://user-images.githubusercontent.com/93982810/146961729-6c1bac4a-7862-4128-b083-96dd815fc9e3.jpg)
 
-***Стал «Человек года» по версии журнала Time в 2006 году***
+***«Человек года» по версии журнала Time в 2006 году***
 
 ![Time_youcover01](https://user-images.githubusercontent.com/93982810/146966296-be826d23-d0db-4def-b5f3-94cac6929c4c.jpg)
 
