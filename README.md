@@ -18,8 +18,8 @@
 Настольный теннис, устройство компьютера, рисование.
 ## 🏆Личные достижения🏆
 Сертификат ИНТУИТ:
-<p align='left'>
-   <img src="https:user-images.githubusercontent.com/93982810/146959300-ff0a938b-d7cf-4035-bfe3-4387e756c893.jpg"
+<p align='center'>
+   <img src="https:user-images.githubusercontent.com/93982810/146959300-ff0a938b-d7cf-4035-bfe3-4387e756c893.jpg?&style=for-the-badge&logo=vk&logoColor=white"
      </a>   
 ## 👩‍🏭Профессиональные навыки👩‍🏭
 Пользователь MsOffice
