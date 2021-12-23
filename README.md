@@ -29,9 +29,9 @@
 
  
 ## 👩‍🏭Профессиональные навыки👩‍🏭
-Пользователь MsOffice
-Adobe Photoshop
-SQL Server
+# Пользователь MsOffice
+# Adobe Photoshop
+# SQL Server
 ## 📱Контакты📱
 <p align='left'>
    <a href="https://vk.com/hikkim0ri/">
