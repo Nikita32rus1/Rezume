@@ -19,8 +19,8 @@
 ## ⚽Увлечения🎨
 Настольный теннис, устройство компьютера, рисование.
 ## 📰Мой проект📰 ##
-Ссылка на репозиторий с проектом [Мой проект](https://github.com/Nikita32rus1/Rezume/tree/main/WindowsFormsApplication1)
-Скачать архивом [Тексовый редактор]([Text editor(Chubarov).zip](https://github.com/Nikita32rus1/Rezume/files/7770987/Text.editor.Chubarov.zip)
+* Ссылка на репозиторий с проектом [Мой проект](https://github.com/Nikita32rus1/Rezume/tree/main/WindowsFormsApplication1)
+* Скачать архивом [Тексовый редактор]([Text editor(Chubarov).zip](https://github.com/Nikita32rus1/Rezume/files/7770987/Text.editor.Chubarov.zip))
 
 ## 🏆Личные достижения🏆
 ***Сертификат ИНТУИТ***
